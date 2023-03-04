@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d76e76d-d49e-471b-b09b-0e2ed4009fe1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="9d76e76d-d49e-471b-b09b-0e2ed4009fe1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +28,9 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/ryanhenzell-hill/Documents/Web Development/projects/PersonalProjects/Learning/redux-counter-app",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677927003036</updated>
       <workItem from="1677927004475" duration="236000" />
+      <workItem from="1677927306285" duration="653000" />
     </task>
     <servers />
   </component>

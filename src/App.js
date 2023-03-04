@@ -1,12 +1,15 @@
 import './App.css';
+import Button from "./components/Button/Button";
+import Counter from "./components/Counter/Counter";
 
 const App = () => {
   return (
     <div className="App">
-        <h1>The count is: 0</h1>
+        <Counter />
+
         <div>
-            <button>Increment</button>
-            <button>Decrement</button>
+            <Button description="Increment" />
+            <Button description="Decrement" />
         </div>
     </div>
   );
