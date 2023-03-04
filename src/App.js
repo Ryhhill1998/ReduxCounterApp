@@ -10,6 +10,7 @@ const App = () => {
         <div>
             <Button description="Increment" />
             <Button description="Decrement" />
+            <Button description="Increment by 5" />
         </div>
     </div>
   );
