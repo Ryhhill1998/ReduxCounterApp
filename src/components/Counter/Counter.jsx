@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux';
 
 const Counter = () => {
-    const count = useSelector(state => state.counter.value);
+    const { count } = useSelector(state => state.counter);
 
     return <h1>The count is: {count}</h1>;
 }
